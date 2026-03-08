@@ -1,0 +1,57 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Universal AnyConvert",
+  "version": "1.0.0",
+  "identifier": "com.shub-r.anyconvert",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "devUrl": "http://localhost:1420",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Universal AnyConvert",
+        "width": 480,
+        "height": 520,
+        "minWidth": 400,
+        "minHeight": 450,
+        "center": true,
+        "resizable": true,
+        "decorations": true,
+        "transparent": false,
+        "dragDropEnabled": true
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'"
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["msi", "nsis", "dmg", "app", "appimage", "deb"],
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "shortDescription": "Universal file converter",
+    "longDescription": "A universal file converter that works on Windows, Mac, and Linux. Supports images, documents, videos, audio, and spreadsheets.",
+    "category": "Utility",
+    "publisher": "shub-r",
+    "copyright": "Copyright 2024 shub-r",
+    "windows": {
+      "wix": {
+        "language": "en-US"
+      },
+      "nsis": {
+        "installMode": "currentUser",
+        "installerIcon": "icons/icon.ico",
+        "headerImage": "icons/icon.ico"
+      }
+    }
+  }
+}
