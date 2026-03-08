@@ -1,7 +1,7 @@
 # Universal AnyConvert
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shub-r/Universal-AnyConvert/main/icon.png" alt="Universal AnyConvert Logo" width="128" height="128"/>
+  <img src="https://raw.githubusercontent.com/shub-r/Universal-AnyConvert/main/src-tauri/icons/icon.png" alt="Universal AnyConvert Logo" width="128" height="128"/>
 </p>
 
 <p align="center">
@@ -12,6 +12,9 @@
   </a>
   <a href="https://github.com/shub-r/Universal-AnyConvert/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/shub-r/Universal-AnyConvert" alt="License">
+  </a>
+  <a href="https://github.com/shub-r/Universal-AnyConvert/actions/workflows/build.yml">
+    <img src="https://github.com/shub-r/Universal-AnyConvert/actions/workflows/build.yml/badge.svg" alt="Build">
   </a>
 </p>
 
@@ -53,19 +56,8 @@ Built with ❤️ using [Tauri](https://tauri.app/) (Rust + React)
 
 ## Screenshots
 
-### Main Interface
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shub-r/Universal-AnyConvert/main/screenshots/main.png" alt="Main Interface" width="400"/>
-</p>
-
-### File Selection
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shub-r/Universal-AnyConvert/main/screenshots/file-selection.png" alt="File Selection" width="400"/>
-</p>
-
-### Conversion Progress
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shub-r/Universal-AnyConvert/main/screenshots/converting.png" alt="Converting" width="400"/>
+  <img src="https://raw.githubusercontent.com/shub-r/Universal-AnyConvert/main/screenshots/screenshot-1.png" alt="Main Interface" width="400"/>
 </p>
 
 ---
@@ -73,12 +65,16 @@ Built with ❤️ using [Tauri](https://tauri.app/) (Rust + React)
 ## Installation
 
 ### Windows
-- **MSI Installer**: Download from [Releases](https://github.com/shub-r/Universal-AnyConvert/releases)
-- **Portable**: Use the `.exe` directly
+- Download **MSI** or **EXE** from [Releases](https://github.com/shub-r/Universal-AnyConvert/releases)
 
 ### Linux
 - **AppImage**: Run directly without installation
 - **DEB Package**: For Debian/Ubuntu-based systems
+
+```bash
+# Example: Install DEB
+sudo dpkg -i Universal-AnyConvert_1.0.0_amd64.deb
+```
 
 ### macOS
 - **DMG Image**: Drag to Applications folder
@@ -144,5 +140,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 <p align="center">
-  Made with ❤️ for open source community
+  Made with ❤️ for the open source community
 </p>
