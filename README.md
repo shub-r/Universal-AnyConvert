@@ -66,6 +66,7 @@ Built with ❤️ using [Tauri](https://tauri.app/) (Rust + React)
   <img src="public/Screenshots/01.png" alt="Main Interface" width="400"/>
   <img src="public/Screenshots/02.png" alt="Main Interface" width="400"/>
   <img src="public/Screenshots/03.png" alt="Main Interface" width="400"/>
+  <img src="public/Screenshots/04.png" alt="Main Interface" width="400"/>
 </p>
 
 ---
