@@ -30,7 +30,6 @@ Every time I needed to convert a file, I'd end up on some random online tool —
 These are basic tasks. They shouldn't require five different platforms and a monthly subscription.
 That frustration is what pushed me to build Universal AnyConvert — a local, offline-first tool that handles it all in one place. No limits. No credits. No internet required.
 
-Built with ❤️ using [Tauri](https://tauri.app/) (Rust + React)
 
 ---
 
