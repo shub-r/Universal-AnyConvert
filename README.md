@@ -63,7 +63,7 @@ Built with ❤️ using [Tauri](https://tauri.app/) (Rust + React)
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shub-r/Universal-AnyConvert/main/screenshots/screenshot-1.png" alt="Main Interface" width="400"/>
+  <img src="public/Screenshots/01.png" alt="Main Interface" width="400"/>
 </p>
 
 ---
