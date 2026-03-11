@@ -22,7 +22,13 @@
 
 ## About
 
-**Universal AnyConvert** is a fast, secure, and feature-rich file converter that works completely offline. Your files never leave your device.
+**Universal AnyConvert** convert anyfile into it's anyfile fromat possiable.
+its a fast, secure, and feature-rich file converter that works completely offline. Your files never leave your device.
+
+Days of searching. Still no solution.
+Every time I needed to convert a file, I'd end up on some random online tool — upload limits, watermarks, paywalls, credits that run out right when you need them most. And no single tool does everything. Images to PDF? One site. Convert a doc? Another. Batch processing? That's a paid tier.
+These are basic tasks. They shouldn't require five different platforms and a monthly subscription.
+That frustration is what pushed me to build Universal AnyConvert — a local, offline-first tool that handles it all in one place. No limits. No credits. No internet required.
 
 Built with ❤️ using [Tauri](https://tauri.app/) (Rust + React)
 
@@ -134,5 +140,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 <p align="center">
-  Made with ❤️ for the open source community
+  Made with ❤️ for open source community babyy 😜✨
 </p>
