@@ -22,7 +22,7 @@
 
 ## About
 
-**Universal AnyConvert** convert anyfile into it's anyfile fromat possiable.
+**Universal AnyConvert** convert anyfile into it's anyfile format possible.
 its a fast, secure, and feature-rich file converter that works completely offline. Your files never leave your device.
 
 Days of searching. Still no solution.
