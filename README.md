@@ -142,5 +142,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 <p align="center">
-  Made with ❤️ for open source community babyy 😜✨
+  Made with ❤️ for open source community babyy ✨
 </p>
